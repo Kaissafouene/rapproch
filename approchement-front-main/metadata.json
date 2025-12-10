@@ -1,0 +1,5 @@
+{
+  "name": "État de Rapprochement Bancaire (Tunisie)",
+  "description": "Une application web pour générer automatiquement un État de Rapprochement Bancaire conforme aux normes de la comptabilité tunisienne, en utilisant l'IA pour comparer les relevés bancaires et les journaux comptables.",
+  "requestFramePermissions": []
+}
